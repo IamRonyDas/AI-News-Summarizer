@@ -27,3 +27,7 @@ content_scripts
 popup.js
 
 background.js
+
+Screenshots
+![image](https://github.com/user-attachments/assets/9fcd12ba-bc62-4390-826a-eee645f99c0e)
+
